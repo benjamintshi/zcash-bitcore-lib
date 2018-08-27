@@ -1,5 +1,8 @@
-Bitcore Library
-=======
+# Deprecated
+
+We are no longer maintaining this fork. Other forks of bitcore are available, such as https://github.com/zcash-hackworks/bitcore-lib-zcash.
+
+----
 
 [![NPM Package](https://img.shields.io/npm/v/zcash-bitcore-lib.svg?style=flat-square)](https://www.npmjs.org/package/zcash-bitcore-lib)
 [![Build Status](https://img.shields.io/travis/bitmex/zcash-bitcore-lib.svg?branch=master&style=flat-square)](https://travis-ci.org/bitmex/zcash-bitcore-lib)
